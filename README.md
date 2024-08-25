@@ -1,4 +1,4 @@
-# MBA_Python4DE_Project01
+# MBA Python 4 DE  Project01
 Trabalho do MBA, da matéria de Python para Engenharia de Dados.
 Os seguinte códigos em Python são responsáveis por:
 
