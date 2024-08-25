@@ -1,6 +1,7 @@
 # MBA_Python4DE_Project01
 Trabalho do MBA, da matéria de Python para Engenharia de Dados.
 Os seguinte códigos em Python são responsáveis por:
+
     -- Encoder:
         Traduzir uma mensagem de texto normal para uma no formato código morse.
     
